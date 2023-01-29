@@ -1,0 +1,8 @@
+﻿Problem Set 9: Problem 0
+Kit Chung Yan
+CS 111
+11/17/2021
+Put your response to the reading below.
+
+
+If Pivot searching was fully operational, I could imagine using it to retrace all the memories that I’ve done during the previous days because as I continue to live a new day, new memories get collected. With those new memories that I have in my mind, I can’t possibly remember all the things that I did that day. So with Pivot searching, I could at least see the activities I did so that I can recall the rest of my memories of what happened on a certain day. With Pivot searching, I’d feel it would make our life easier to live because let’s say you accidentally deleted a page or forgot something very important on the web. Pivot searching can help recall the event you were looking for so that way, your problem is solved. I’d see this use of searching to be more productive if anything else as this computation would allow the system to store the data so if you ever need to access that data back, I could simply search it and look for that information back.
